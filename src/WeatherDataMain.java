@@ -3,7 +3,6 @@
  * data from a weather station file.
  */
 public class WeatherDataMain {
-
 	/**
 	 * Program entry point.
 	 *
@@ -22,7 +21,6 @@ public class WeatherDataMain {
 			System.out.println("Closing program ...");
 			e.printStackTrace();
 			System.out.println("Current working directory: " + System.getProperty("user.dir"));
-
 		}		
 	}
 }
