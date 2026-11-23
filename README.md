@@ -4,7 +4,7 @@ A short study of algorithms and data structures to strive for an<br>
 optimization of a worst case scenario calculating time complexity (Big O).
 
 #### Execution
-Entry point in class WeatherDataMain.
+Entry point in class WeatherDataMain.<br>
 Command line UI application. Instructions and examples in class WeatherDataHandler.
 
 #### Data
